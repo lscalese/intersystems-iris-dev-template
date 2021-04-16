@@ -1,6 +1,6 @@
 # config-api cheat sheet
 
-Configuration file is located to [`./config-api/iris-config.json`](./config-api/iris-config.json)
+Configuration file is located to [`./iris-config.json`](./config-api/iris-config.json)
 
 ## Table of content
 
